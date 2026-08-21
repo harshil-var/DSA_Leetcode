@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-08-21T11:39:01.103Z",
+  "updatedAt": "2026-08-21T12:24:24.128Z",
   "problems": [
     {
       "frontendId": "113",
@@ -42,7 +42,7 @@
           "filename": "0494-target-sum.cpp",
           "path": "DSA_Leetcode/0494-target-sum/0494-target-sum.cpp",
           "sha": "93fc6412f91124c81e27691e08a89e147b4b18d1",
-          "lastSyncedAt": "2026-08-21T11:34:51.650Z"
+          "lastSyncedAt": "2026-08-21T12:24:24.128Z"
         }
       ]
     }
