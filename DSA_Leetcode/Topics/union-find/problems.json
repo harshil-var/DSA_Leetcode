@@ -4,7 +4,7 @@
     "slug": "union-find",
     "name": "Union-Find"
   },
-  "updatedAt": "2026-08-21T11:36:10.215Z",
+  "updatedAt": "2026-08-21T12:25:13.712Z",
   "problems": [
     {
       "frontendId": "200",
@@ -22,7 +22,7 @@
           "filename": "0200-number-of-islands.cpp",
           "path": "DSA_Leetcode/0200-number-of-islands/0200-number-of-islands.cpp",
           "sha": "305f919f5bd71c942b8ea7ace11d93d5b5076c27",
-          "lastSyncedAt": "2026-08-21T11:36:10.215Z"
+          "lastSyncedAt": "2026-08-21T12:25:13.712Z"
         }
       ]
     }
