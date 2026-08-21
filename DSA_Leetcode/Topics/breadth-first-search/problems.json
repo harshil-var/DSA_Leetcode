@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-08-21T11:36:10.215Z",
+  "updatedAt": "2026-08-21T11:37:27.642Z",
   "problems": [
     {
       "frontendId": "200",
@@ -43,6 +43,26 @@
           "path": "DSA_Leetcode/0407-trapping-rain-water-ii/0407-trapping-rain-water-ii.cpp",
           "sha": "e606e29ecde96811fb3b79d8c38344823da5ca47",
           "lastSyncedAt": "2026-08-21T11:35:11.517Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "958",
+      "title": "Check Completeness of a Binary Tree",
+      "slug": "check-completeness-of-a-binary-tree",
+      "problemName": "0958-check-completeness-of-a-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/check-completeness-of-a-binary-tree/",
+      "folderPath": "DSA_Leetcode/0958-check-completeness-of-a-binary-tree/",
+      "readmePath": "DSA_Leetcode/0958-check-completeness-of-a-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0958-check-completeness-of-a-binary-tree.cpp",
+          "path": "DSA_Leetcode/0958-check-completeness-of-a-binary-tree/0958-check-completeness-of-a-binary-tree.cpp",
+          "sha": "d1cca939f1e6a0ec451703d78096926974042f3e",
+          "lastSyncedAt": "2026-08-21T11:37:27.642Z"
         }
       ]
     },
