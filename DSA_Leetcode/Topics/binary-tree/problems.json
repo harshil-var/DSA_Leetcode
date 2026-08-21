@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-08-21T12:25:50.578Z",
+  "updatedAt": "2026-08-21T12:25:59.654Z",
   "problems": [
     {
       "frontendId": "98",
@@ -22,7 +22,7 @@
           "filename": "0098-validate-binary-search-tree.cpp",
           "path": "DSA_Leetcode/0098-validate-binary-search-tree/0098-validate-binary-search-tree.cpp",
           "sha": "2cc217a605ac5c99d7a3ebb50cc5f2a6fa619b2d",
-          "lastSyncedAt": "2026-08-21T11:37:14.910Z"
+          "lastSyncedAt": "2026-08-21T12:25:59.654Z"
         }
       ]
     },
