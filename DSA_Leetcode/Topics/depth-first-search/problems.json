@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-08-21T11:38:26.490Z",
+  "updatedAt": "2026-08-21T11:38:38.983Z",
   "problems": [
     {
       "frontendId": "98",
@@ -43,6 +43,26 @@
           "path": "DSA_Leetcode/0099-recover-binary-search-tree/0099-recover-binary-search-tree.cpp",
           "sha": "7dc9395e2043a146c0d8838454a93ed3c21e2a6e",
           "lastSyncedAt": "2026-08-21T11:37:01.088Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "110",
+      "title": "Balanced Binary Tree",
+      "slug": "balanced-binary-tree",
+      "problemName": "0110-balanced-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/balanced-binary-tree/",
+      "folderPath": "DSA_Leetcode/0110-balanced-binary-tree/",
+      "readmePath": "DSA_Leetcode/0110-balanced-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0110-balanced-binary-tree.cpp",
+          "path": "DSA_Leetcode/0110-balanced-binary-tree/0110-balanced-binary-tree.cpp",
+          "sha": "997cd3a0e70808d5a2be58fe567e33390eea4d33",
+          "lastSyncedAt": "2026-08-21T11:38:38.983Z"
         }
       ]
     },
