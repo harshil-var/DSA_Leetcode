@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 19 | 7 | 11 | 1 |
+| 20 | 8 | 11 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 3 days | 8 |
+| 2 days | 3 days | 9 |
 
 | Date | Problems |
 | --- | ---: |
@@ -23,21 +23,22 @@ Contains topicwise list of solved problems.
 | 2026-08-16 | 1 |
 | 2026-08-17 | 1 |
 | 2026-08-20 | 3 |
+| 2026-08-21 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 10 | 53% |
-| Tree | 10 | 53% |
-| Array | 9 | 47% |
-| Depth-First Search | 8 | 42% |
-| Breadth-First Search | 6 | 32% |
-| Dynamic Programming | 4 | 21% |
-| Hash Table | 3 | 16% |
-| Math | 3 | 16% |
-| Matrix | 3 | 16% |
-| Backtracking | 2 | 11% |
+| Binary Tree | 10 | 50% |
+| Tree | 10 | 50% |
+| Array | 9 | 45% |
+| Depth-First Search | 8 | 40% |
+| Breadth-First Search | 6 | 30% |
+| Dynamic Programming | 5 | 25% |
+| Math | 4 | 20% |
+| Hash Table | 3 | 15% |
+| Matrix | 3 | 15% |
+| Memoization | 3 | 15% |
 
 ## Topics
 
@@ -54,13 +55,13 @@ Contains topicwise list of solved problems.
 | [Depth-First Search](Topics/depth-first-search/) | 8 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 5 |
 | [Hash Table](Topics/hash-table/) | 3 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
-| [Math](Topics/math/) | 3 |
+| [Math](Topics/math/) | 4 |
 | [Matrix](Topics/matrix/) | 3 |
-| [Memoization](Topics/memoization/) | 2 |
+| [Memoization](Topics/memoization/) | 3 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Tree](Topics/tree/) | 10 |
