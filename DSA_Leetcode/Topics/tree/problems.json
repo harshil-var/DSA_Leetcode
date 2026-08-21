@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-08-21T11:38:49.345Z",
+  "updatedAt": "2026-08-21T11:39:01.103Z",
   "problems": [
     {
       "frontendId": "98",
@@ -143,6 +143,26 @@
           "path": "DSA_Leetcode/0111-minimum-depth-of-binary-tree/0111-minimum-depth-of-binary-tree.cpp",
           "sha": "89600351fa2dfeb16a4db9e010b3d658fff66666",
           "lastSyncedAt": "2026-08-21T11:38:26.490Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "113",
+      "title": "Path Sum II",
+      "slug": "path-sum-ii",
+      "problemName": "0113-path-sum-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-sum-ii/",
+      "folderPath": "DSA_Leetcode/0113-path-sum-ii/",
+      "readmePath": "DSA_Leetcode/0113-path-sum-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0113-path-sum-ii.cpp",
+          "path": "DSA_Leetcode/0113-path-sum-ii/0113-path-sum-ii.cpp",
+          "sha": "69b1b3f8ed6df8a3dd74a406b0d54d92ce8a42cf",
+          "lastSyncedAt": "2026-08-21T11:39:01.103Z"
         }
       ]
     },
