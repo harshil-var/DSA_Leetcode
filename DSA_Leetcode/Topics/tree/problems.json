@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-08-21T12:26:25.514Z",
+  "updatedAt": "2026-08-21T12:26:35.842Z",
   "problems": [
     {
       "frontendId": "98",
@@ -122,7 +122,7 @@
           "filename": "0110-balanced-binary-tree.cpp",
           "path": "DSA_Leetcode/0110-balanced-binary-tree/0110-balanced-binary-tree.cpp",
           "sha": "997cd3a0e70808d5a2be58fe567e33390eea4d33",
-          "lastSyncedAt": "2026-08-21T11:38:38.983Z"
+          "lastSyncedAt": "2026-08-21T12:26:35.842Z"
         }
       ]
     },
