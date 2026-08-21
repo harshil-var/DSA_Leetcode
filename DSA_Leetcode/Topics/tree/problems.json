@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-08-21T12:26:09.121Z",
+  "updatedAt": "2026-08-21T12:26:16.591Z",
   "problems": [
     {
       "frontendId": "98",
@@ -182,7 +182,7 @@
           "filename": "0543-diameter-of-binary-tree.cpp",
           "path": "DSA_Leetcode/0543-diameter-of-binary-tree/0543-diameter-of-binary-tree.cpp",
           "sha": "8ba05469ff7e0cbf0828a09e97dd33d3c7dd840c",
-          "lastSyncedAt": "2026-08-21T11:38:11.333Z"
+          "lastSyncedAt": "2026-08-21T12:26:16.591Z"
         }
       ]
     },
