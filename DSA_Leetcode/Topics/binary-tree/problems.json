@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-08-21T11:37:14.910Z",
+  "updatedAt": "2026-08-21T11:37:27.642Z",
   "problems": [
     {
       "frontendId": "98",
@@ -83,6 +83,26 @@
           "path": "DSA_Leetcode/0106-construct-binary-tree-from-inorder-and-postorder-traversal/0106-construct-binary-tree-from-inorder-and-postorder-traversal.cpp",
           "sha": "7fe1ccd7afaf8a6e7ef220f1251dc895612400fc",
           "lastSyncedAt": "2026-08-21T11:36:27.397Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "958",
+      "title": "Check Completeness of a Binary Tree",
+      "slug": "check-completeness-of-a-binary-tree",
+      "problemName": "0958-check-completeness-of-a-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/check-completeness-of-a-binary-tree/",
+      "folderPath": "DSA_Leetcode/0958-check-completeness-of-a-binary-tree/",
+      "readmePath": "DSA_Leetcode/0958-check-completeness-of-a-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0958-check-completeness-of-a-binary-tree.cpp",
+          "path": "DSA_Leetcode/0958-check-completeness-of-a-binary-tree/0958-check-completeness-of-a-binary-tree.cpp",
+          "sha": "d1cca939f1e6a0ec451703d78096926974042f3e",
+          "lastSyncedAt": "2026-08-21T11:37:27.642Z"
         }
       ]
     }
