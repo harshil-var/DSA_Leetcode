@@ -4,8 +4,28 @@
     "slug": "binary-search-tree",
     "name": "Binary Search Tree"
   },
-  "updatedAt": "2026-08-21T11:37:01.088Z",
+  "updatedAt": "2026-08-21T11:37:14.910Z",
   "problems": [
+    {
+      "frontendId": "98",
+      "title": "Validate Binary Search Tree",
+      "slug": "validate-binary-search-tree",
+      "problemName": "0098-validate-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/validate-binary-search-tree/",
+      "folderPath": "DSA_Leetcode/0098-validate-binary-search-tree/",
+      "readmePath": "DSA_Leetcode/0098-validate-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0098-validate-binary-search-tree.cpp",
+          "path": "DSA_Leetcode/0098-validate-binary-search-tree/0098-validate-binary-search-tree.cpp",
+          "sha": "2cc217a605ac5c99d7a3ebb50cc5f2a6fa619b2d",
+          "lastSyncedAt": "2026-08-21T11:37:14.910Z"
+        }
+      ]
+    },
     {
       "frontendId": "99",
       "title": "Recover Binary Search Tree",
