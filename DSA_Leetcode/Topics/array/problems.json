@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-21T11:35:29.744Z",
+  "updatedAt": "2026-08-21T11:35:40.828Z",
   "problems": [
+    {
+      "frontendId": "198",
+      "title": "House Robber",
+      "slug": "house-robber",
+      "problemName": "0198-house-robber",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber/",
+      "folderPath": "DSA_Leetcode/0198-house-robber/",
+      "readmePath": "DSA_Leetcode/0198-house-robber/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0198-house-robber.cpp",
+          "path": "DSA_Leetcode/0198-house-robber/0198-house-robber.cpp",
+          "sha": "266429b94a781a495b634aee433fa315cbdf0ba5",
+          "lastSyncedAt": "2026-08-21T11:35:40.828Z"
+        }
+      ]
+    },
     {
       "frontendId": "229",
       "title": "Majority Element II",
