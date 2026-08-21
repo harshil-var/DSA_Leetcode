@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-08-21T12:24:35.418Z",
+  "updatedAt": "2026-08-21T12:25:05.727Z",
   "problems": [
     {
       "frontendId": "200",
@@ -62,7 +62,7 @@
           "filename": "0994-rotting-oranges.cpp",
           "path": "DSA_Leetcode/0994-rotting-oranges/0994-rotting-oranges.cpp",
           "sha": "0a1051f06338a3ffd1e03752cc2c24dff26a43de",
-          "lastSyncedAt": "2026-08-21T11:35:59.030Z"
+          "lastSyncedAt": "2026-08-21T12:25:05.727Z"
         }
       ]
     }
