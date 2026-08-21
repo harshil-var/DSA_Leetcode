@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-08-21T11:35:11.517Z",
+  "updatedAt": "2026-08-21T11:35:59.030Z",
   "problems": [
     {
       "frontendId": "407",
@@ -23,6 +23,26 @@
           "path": "DSA_Leetcode/0407-trapping-rain-water-ii/0407-trapping-rain-water-ii.cpp",
           "sha": "e606e29ecde96811fb3b79d8c38344823da5ca47",
           "lastSyncedAt": "2026-08-21T11:35:11.517Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "994",
+      "title": "Rotting Oranges",
+      "slug": "rotting-oranges",
+      "problemName": "0994-rotting-oranges",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges/",
+      "folderPath": "DSA_Leetcode/0994-rotting-oranges/",
+      "readmePath": "DSA_Leetcode/0994-rotting-oranges/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0994-rotting-oranges.cpp",
+          "path": "DSA_Leetcode/0994-rotting-oranges/0994-rotting-oranges.cpp",
+          "sha": "0a1051f06338a3ffd1e03752cc2c24dff26a43de",
+          "lastSyncedAt": "2026-08-21T11:35:59.030Z"
         }
       ]
     }
