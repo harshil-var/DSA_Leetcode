@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-21T12:24:57.944Z",
+  "updatedAt": "2026-08-21T17:44:07.364Z",
   "problems": [
     {
       "frontendId": "70",
@@ -63,6 +63,26 @@
           "path": "DSA_Leetcode/0628-maximum-product-of-three-numbers/0628-maximum-product-of-three-numbers.cpp",
           "sha": "67a0c7e91d879c40b3f8dab573727645ae02361e",
           "lastSyncedAt": "2026-08-21T12:24:44.144Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1137",
+      "title": "N-th Tribonacci Number",
+      "slug": "n-th-tribonacci-number",
+      "problemName": "1137-n-th-tribonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/n-th-tribonacci-number/",
+      "folderPath": "DSA_Leetcode/1137-n-th-tribonacci-number/",
+      "readmePath": "DSA_Leetcode/1137-n-th-tribonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1137-n-th-tribonacci-number.cpp",
+          "path": "DSA_Leetcode/1137-n-th-tribonacci-number/1137-n-th-tribonacci-number.cpp",
+          "sha": "75fffc6af53591873e1c9ee31ba86294d7191e66",
+          "lastSyncedAt": "2026-08-21T17:44:07.364Z"
         }
       ]
     }
