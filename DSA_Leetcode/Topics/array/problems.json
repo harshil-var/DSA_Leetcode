@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-21T11:34:51.650Z",
+  "updatedAt": "2026-08-21T11:35:11.517Z",
   "problems": [
     {
       "frontendId": "229",
@@ -23,6 +23,26 @@
           "path": "DSA_Leetcode/0229-majority-element-ii/0229-majority-element-ii.cpp",
           "sha": "9d1cfe037c6ea8d634ab9bbde6822e131261bab5",
           "lastSyncedAt": "2026-08-21T11:34:32.800Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "407",
+      "title": "Trapping Rain Water II",
+      "slug": "trapping-rain-water-ii",
+      "problemName": "0407-trapping-rain-water-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water-ii/",
+      "folderPath": "DSA_Leetcode/0407-trapping-rain-water-ii/",
+      "readmePath": "DSA_Leetcode/0407-trapping-rain-water-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0407-trapping-rain-water-ii.cpp",
+          "path": "DSA_Leetcode/0407-trapping-rain-water-ii/0407-trapping-rain-water-ii.cpp",
+          "sha": "e606e29ecde96811fb3b79d8c38344823da5ca47",
+          "lastSyncedAt": "2026-08-21T11:35:11.517Z"
         }
       ]
     },
