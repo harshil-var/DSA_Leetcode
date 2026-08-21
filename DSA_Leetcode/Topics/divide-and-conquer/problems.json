@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-08-21T11:36:47.364Z",
+  "updatedAt": "2026-08-21T12:25:26.412Z",
   "problems": [
     {
       "frontendId": "105",
@@ -42,7 +42,7 @@
           "filename": "0106-construct-binary-tree-from-inorder-and-postorder-traversal.cpp",
           "path": "DSA_Leetcode/0106-construct-binary-tree-from-inorder-and-postorder-traversal/0106-construct-binary-tree-from-inorder-and-postorder-traversal.cpp",
           "sha": "7fe1ccd7afaf8a6e7ef220f1251dc895612400fc",
-          "lastSyncedAt": "2026-08-21T11:36:27.397Z"
+          "lastSyncedAt": "2026-08-21T12:25:26.412Z"
         }
       ]
     }
