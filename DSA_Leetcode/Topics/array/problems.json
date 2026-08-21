@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "array",
+    "name": "Array"
+  },
+  "updatedAt": "2026-08-21T11:34:32.800Z",
+  "problems": [
+    {
+      "frontendId": "229",
+      "title": "Majority Element II",
+      "slug": "majority-element-ii",
+      "problemName": "0229-majority-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element-ii/",
+      "folderPath": "DSA_Leetcode/0229-majority-element-ii/",
+      "readmePath": "DSA_Leetcode/0229-majority-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0229-majority-element-ii.cpp",
+          "path": "DSA_Leetcode/0229-majority-element-ii/0229-majority-element-ii.cpp",
+          "sha": "9d1cfe037c6ea8d634ab9bbde6822e131261bab5",
+          "lastSyncedAt": "2026-08-21T11:34:32.800Z"
+        }
+      ]
+    }
+  ]
+}
