@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-08-21T11:38:26.490Z",
+  "updatedAt": "2026-08-21T11:38:38.983Z",
   "problems": [
     {
       "frontendId": "98",
@@ -83,6 +83,26 @@
           "path": "DSA_Leetcode/0106-construct-binary-tree-from-inorder-and-postorder-traversal/0106-construct-binary-tree-from-inorder-and-postorder-traversal.cpp",
           "sha": "7fe1ccd7afaf8a6e7ef220f1251dc895612400fc",
           "lastSyncedAt": "2026-08-21T11:36:27.397Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "110",
+      "title": "Balanced Binary Tree",
+      "slug": "balanced-binary-tree",
+      "problemName": "0110-balanced-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/balanced-binary-tree/",
+      "folderPath": "DSA_Leetcode/0110-balanced-binary-tree/",
+      "readmePath": "DSA_Leetcode/0110-balanced-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0110-balanced-binary-tree.cpp",
+          "path": "DSA_Leetcode/0110-balanced-binary-tree/0110-balanced-binary-tree.cpp",
+          "sha": "997cd3a0e70808d5a2be58fe567e33390eea4d33",
+          "lastSyncedAt": "2026-08-21T11:38:38.983Z"
         }
       ]
     },
