@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-08-21T11:38:11.333Z",
+  "updatedAt": "2026-08-21T11:38:26.490Z",
   "problems": [
     {
       "frontendId": "98",
@@ -83,6 +83,26 @@
           "path": "DSA_Leetcode/0106-construct-binary-tree-from-inorder-and-postorder-traversal/0106-construct-binary-tree-from-inorder-and-postorder-traversal.cpp",
           "sha": "7fe1ccd7afaf8a6e7ef220f1251dc895612400fc",
           "lastSyncedAt": "2026-08-21T11:36:27.397Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "111",
+      "title": "Minimum Depth of Binary Tree",
+      "slug": "minimum-depth-of-binary-tree",
+      "problemName": "0111-minimum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
+      "folderPath": "DSA_Leetcode/0111-minimum-depth-of-binary-tree/",
+      "readmePath": "DSA_Leetcode/0111-minimum-depth-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0111-minimum-depth-of-binary-tree.cpp",
+          "path": "DSA_Leetcode/0111-minimum-depth-of-binary-tree/0111-minimum-depth-of-binary-tree.cpp",
+          "sha": "89600351fa2dfeb16a4db9e010b3d658fff66666",
+          "lastSyncedAt": "2026-08-21T11:38:26.490Z"
         }
       ]
     },
