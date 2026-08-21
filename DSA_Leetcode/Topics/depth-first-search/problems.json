@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-08-21T12:25:13.712Z",
+  "updatedAt": "2026-08-21T12:25:50.578Z",
   "problems": [
     {
       "frontendId": "98",
@@ -42,7 +42,7 @@
           "filename": "0099-recover-binary-search-tree.cpp",
           "path": "DSA_Leetcode/0099-recover-binary-search-tree/0099-recover-binary-search-tree.cpp",
           "sha": "7dc9395e2043a146c0d8838454a93ed3c21e2a6e",
-          "lastSyncedAt": "2026-08-21T11:37:01.088Z"
+          "lastSyncedAt": "2026-08-21T12:25:50.578Z"
         }
       ]
     },
