@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-08-21T12:25:59.654Z",
+  "updatedAt": "2026-08-21T12:26:09.121Z",
   "problems": [
     {
       "frontendId": "98",
@@ -202,7 +202,7 @@
           "filename": "0958-check-completeness-of-a-binary-tree.cpp",
           "path": "DSA_Leetcode/0958-check-completeness-of-a-binary-tree/0958-check-completeness-of-a-binary-tree.cpp",
           "sha": "d1cca939f1e6a0ec451703d78096926974042f3e",
-          "lastSyncedAt": "2026-08-21T11:37:27.642Z"
+          "lastSyncedAt": "2026-08-21T12:26:09.121Z"
         }
       ]
     }
