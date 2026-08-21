@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-08-21T12:26:16.591Z",
+  "updatedAt": "2026-08-21T12:26:25.514Z",
   "problems": [
     {
       "frontendId": "98",
@@ -142,7 +142,7 @@
           "filename": "0111-minimum-depth-of-binary-tree.cpp",
           "path": "DSA_Leetcode/0111-minimum-depth-of-binary-tree/0111-minimum-depth-of-binary-tree.cpp",
           "sha": "89600351fa2dfeb16a4db9e010b3d658fff66666",
-          "lastSyncedAt": "2026-08-21T11:38:26.490Z"
+          "lastSyncedAt": "2026-08-21T12:26:25.514Z"
         }
       ]
     },
