@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-24T15:26:06.585Z",
+  "updatedAt": "2026-08-24T15:26:43.850Z",
   "problems": [
     {
       "frontendId": "36",
@@ -222,7 +222,7 @@
           "filename": "2133-check-if-every-row-and-column-contains-all-numbers.cpp",
           "path": "DSA_Leetcode/2133-check-if-every-row-and-column-contains-all-numbers/2133-check-if-every-row-and-column-contains-all-numbers.cpp",
           "sha": "e77cc49b115c1338289347279adae54206aea233",
-          "lastSyncedAt": "2026-08-24T15:26:06.585Z"
+          "lastSyncedAt": "2026-08-24T15:26:43.850Z"
         }
       ]
     }
