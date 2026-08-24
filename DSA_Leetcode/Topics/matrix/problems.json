@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-08-24T15:25:37.190Z",
+  "updatedAt": "2026-08-24T15:26:06.585Z",
   "problems": [
     {
       "frontendId": "36",
@@ -83,6 +83,26 @@
           "path": "DSA_Leetcode/0994-rotting-oranges/0994-rotting-oranges.cpp",
           "sha": "0a1051f06338a3ffd1e03752cc2c24dff26a43de",
           "lastSyncedAt": "2026-08-21T12:25:05.727Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2133",
+      "title": "Check if Every Row and Column Contains All Numbers",
+      "slug": "check-if-every-row-and-column-contains-all-numbers",
+      "problemName": "2133-check-if-every-row-and-column-contains-all-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/",
+      "folderPath": "DSA_Leetcode/2133-check-if-every-row-and-column-contains-all-numbers/",
+      "readmePath": "DSA_Leetcode/2133-check-if-every-row-and-column-contains-all-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2133-check-if-every-row-and-column-contains-all-numbers.cpp",
+          "path": "DSA_Leetcode/2133-check-if-every-row-and-column-contains-all-numbers/2133-check-if-every-row-and-column-contains-all-numbers.cpp",
+          "sha": "e77cc49b115c1338289347279adae54206aea233",
+          "lastSyncedAt": "2026-08-24T15:26:06.585Z"
         }
       ]
     }
