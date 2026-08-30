@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-24T15:26:43.850Z",
+  "updatedAt": "2026-08-30T16:43:13.993Z",
   "problems": [
     {
       "frontendId": "36",
@@ -203,6 +203,26 @@
           "path": "DSA_Leetcode/0994-rotting-oranges/0994-rotting-oranges.cpp",
           "sha": "0a1051f06338a3ffd1e03752cc2c24dff26a43de",
           "lastSyncedAt": "2026-08-21T12:25:05.727Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1547",
+      "title": "Minimum Cost to Cut a Stick",
+      "slug": "minimum-cost-to-cut-a-stick",
+      "problemName": "1547-minimum-cost-to-cut-a-stick",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/",
+      "folderPath": "DSA_Leetcode/1547-minimum-cost-to-cut-a-stick/",
+      "readmePath": "DSA_Leetcode/1547-minimum-cost-to-cut-a-stick/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1547-minimum-cost-to-cut-a-stick.cpp",
+          "path": "DSA_Leetcode/1547-minimum-cost-to-cut-a-stick/1547-minimum-cost-to-cut-a-stick.cpp",
+          "sha": "ec0fb908437ecc3cd8813a8d13d7e3aa24315241",
+          "lastSyncedAt": "2026-08-30T16:43:13.993Z"
         }
       ]
     },
