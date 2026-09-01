@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 22 | 9 | 12 | 1 |
+| 23 | 9 | 13 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 3 days | 10 |
+| 1 days | 3 days | 11 |
 
 | Date | Problems |
 | --- | ---: |
@@ -25,29 +25,31 @@ Contains topicwise list of solved problems.
 | 2026-08-20 | 3 |
 | 2026-08-21 | 1 |
 | 2026-08-24 | 2 |
+| 2026-09-02 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 11 | 50% |
-| Binary Tree | 10 | 45% |
-| Tree | 10 | 45% |
-| Depth-First Search | 8 | 36% |
-| Breadth-First Search | 6 | 27% |
-| Dynamic Programming | 5 | 23% |
-| Hash Table | 5 | 23% |
-| Matrix | 5 | 23% |
-| Math | 4 | 18% |
-| Memoization | 3 | 14% |
+| Array | 12 | 52% |
+| Binary Tree | 10 | 43% |
+| Tree | 10 | 43% |
+| Depth-First Search | 8 | 35% |
+| Breadth-First Search | 6 | 26% |
+| Dynamic Programming | 5 | 22% |
+| Hash Table | 5 | 22% |
+| Matrix | 5 | 22% |
+| Math | 4 | 17% |
+| Memoization | 3 | 13% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
-| [Array](Topics/array/) | 11 |
+| [Array](Topics/array/) | 13 |
 | [Backtracking](Topics/backtracking/) | 2 |
+| [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 10 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -63,7 +65,9 @@ Contains topicwise list of solved problems.
 | [Math](Topics/math/) | 4 |
 | [Matrix](Topics/matrix/) | 5 |
 | [Memoization](Topics/memoization/) | 3 |
+| [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
+| [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Tree](Topics/tree/) | 10 |
 | [Union-Find](Topics/union-find/) | 1 |
