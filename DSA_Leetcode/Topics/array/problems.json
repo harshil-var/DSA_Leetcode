@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-01T21:46:52.239Z",
+  "updatedAt": "2026-09-01T21:47:06.983Z",
   "problems": [
     {
       "frontendId": "36",
@@ -202,7 +202,7 @@
           "filename": "0713-subarray-product-less-than-k.cpp",
           "path": "DSA_Leetcode/0713-subarray-product-less-than-k/0713-subarray-product-less-than-k.cpp",
           "sha": "3af96edb5bb7d0f3e8a1cd55bdd8769e8cd6dda6",
-          "lastSyncedAt": "2026-09-01T21:46:52.239Z"
+          "lastSyncedAt": "2026-09-01T21:47:06.983Z"
         }
       ]
     },
