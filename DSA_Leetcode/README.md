@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 24 | 9 | 14 | 1 |
+| 25 | 10 | 14 | 1 |
 
 ## Activity
 
@@ -26,31 +26,31 @@ Contains topicwise list of solved problems.
 | 2026-08-21 | 1 |
 | 2026-08-24 | 2 |
 | 2026-09-02 | 1 |
-| 2026-09-04 | 1 |
+| 2026-09-04 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 13 | 54% |
-| Binary Tree | 10 | 42% |
-| Tree | 10 | 42% |
-| Depth-First Search | 8 | 33% |
-| Breadth-First Search | 6 | 25% |
-| Dynamic Programming | 5 | 21% |
-| Hash Table | 5 | 21% |
-| Math | 5 | 21% |
-| Matrix | 5 | 21% |
-| Memoization | 3 | 13% |
+| Array | 14 | 56% |
+| Binary Tree | 10 | 40% |
+| Tree | 10 | 40% |
+| Depth-First Search | 8 | 32% |
+| Breadth-First Search | 6 | 24% |
+| Dynamic Programming | 5 | 20% |
+| Hash Table | 5 | 20% |
+| Math | 5 | 20% |
+| Matrix | 5 | 20% |
+| Memoization | 3 | 12% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
-| [Array](Topics/array/) | 14 |
+| [Array](Topics/array/) | 15 |
 | [Backtracking](Topics/backtracking/) | 2 |
-| [Binary Search](Topics/binary-search/) | 1 |
+| [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 10 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
