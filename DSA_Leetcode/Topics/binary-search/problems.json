@@ -4,8 +4,28 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-01T21:47:06.983Z",
+  "updatedAt": "2026-09-03T20:27:36.335Z",
   "problems": [
+    {
+      "frontendId": "35",
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "problemName": "0035-search-insert-position",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+      "folderPath": "DSA_Leetcode/0035-search-insert-position/",
+      "readmePath": "DSA_Leetcode/0035-search-insert-position/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0035-search-insert-position.cpp",
+          "path": "DSA_Leetcode/0035-search-insert-position/0035-search-insert-position.cpp",
+          "sha": "09013ec506539aeb155c7227981bd801d49016ac",
+          "lastSyncedAt": "2026-09-03T20:27:36.335Z"
+        }
+      ]
+    },
     {
       "frontendId": "713",
       "title": "Subarray Product Less Than K",
