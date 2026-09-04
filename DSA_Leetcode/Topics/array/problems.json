@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-03T20:27:36.335Z",
+  "updatedAt": "2026-09-04T13:52:07.153Z",
   "problems": [
     {
       "frontendId": "35",
@@ -303,6 +303,26 @@
           "path": "DSA_Leetcode/3876-construct-uniform-parity-array-ii/3876-construct-uniform-parity-array-ii.cpp",
           "sha": "ee711130fdcdef62f81ddfa724fa5536472ac658",
           "lastSyncedAt": "2026-09-03T20:25:21.157Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3903",
+      "title": "Smallest Stable Index I",
+      "slug": "smallest-stable-index-i",
+      "problemName": "3903-smallest-stable-index-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-stable-index-i/",
+      "folderPath": "DSA_Leetcode/3903-smallest-stable-index-i/",
+      "readmePath": "DSA_Leetcode/3903-smallest-stable-index-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3903-smallest-stable-index-i.cpp",
+          "path": "DSA_Leetcode/3903-smallest-stable-index-i/3903-smallest-stable-index-i.cpp",
+          "sha": "0bb3c348e5db8bc898b4a3046f0c9fa1a0cb0531",
+          "lastSyncedAt": "2026-09-04T13:52:07.153Z"
         }
       ]
     }
