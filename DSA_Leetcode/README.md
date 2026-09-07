@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 27 | 11 | 15 | 1 |
+| 28 | 12 | 15 | 1 |
 
 ## Activity
 
@@ -27,21 +27,21 @@ Contains topicwise list of solved problems.
 | 2026-08-24 | 2 |
 | 2026-09-02 | 1 |
 | 2026-09-04 | 3 |
-| 2026-09-07 | 1 |
+| 2026-09-07 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 16 | 59% |
-| Binary Tree | 10 | 37% |
-| Tree | 10 | 37% |
-| Depth-First Search | 8 | 30% |
-| Breadth-First Search | 7 | 26% |
-| Hash Table | 6 | 22% |
-| Matrix | 6 | 22% |
-| Dynamic Programming | 5 | 19% |
-| Math | 5 | 19% |
+| Array | 17 | 61% |
+| Binary Tree | 10 | 36% |
+| Tree | 10 | 36% |
+| Depth-First Search | 8 | 29% |
+| Breadth-First Search | 7 | 25% |
+| Hash Table | 6 | 21% |
+| Math | 6 | 21% |
+| Matrix | 6 | 21% |
+| Dynamic Programming | 5 | 18% |
 | Memoization | 3 | 11% |
 
 ## Topics
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
-| [Array](Topics/array/) | 17 |
+| [Array](Topics/array/) | 18 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
@@ -65,7 +65,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 6 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
-| [Math](Topics/math/) | 5 |
+| [Math](Topics/math/) | 6 |
 | [Matrix](Topics/matrix/) | 6 |
 | [Memoization](Topics/memoization/) | 3 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
