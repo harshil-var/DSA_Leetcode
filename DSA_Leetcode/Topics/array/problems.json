@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-07T17:36:22.664Z",
+  "updatedAt": "2026-09-07T17:38:07.718Z",
   "problems": [
     {
       "frontendId": "35",
@@ -163,6 +163,26 @@
           "path": "DSA_Leetcode/0229-majority-element-ii/0229-majority-element-ii.cpp",
           "sha": "9d1cfe037c6ea8d634ab9bbde6822e131261bab5",
           "lastSyncedAt": "2026-08-21T12:24:14.215Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "378",
+      "title": "Kth Smallest Element in a Sorted Matrix",
+      "slug": "kth-smallest-element-in-a-sorted-matrix",
+      "problemName": "0378-kth-smallest-element-in-a-sorted-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
+      "folderPath": "DSA_Leetcode/0378-kth-smallest-element-in-a-sorted-matrix/",
+      "readmePath": "DSA_Leetcode/0378-kth-smallest-element-in-a-sorted-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0378-kth-smallest-element-in-a-sorted-matrix.cpp",
+          "path": "DSA_Leetcode/0378-kth-smallest-element-in-a-sorted-matrix/0378-kth-smallest-element-in-a-sorted-matrix.cpp",
+          "sha": "a1aeb7276d6bb39345cbed91f661c80321c50502",
+          "lastSyncedAt": "2026-09-07T17:38:07.718Z"
         }
       ]
     },
