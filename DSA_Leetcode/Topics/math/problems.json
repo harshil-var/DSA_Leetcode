@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-03T20:25:21.157Z",
+  "updatedAt": "2026-09-07T17:32:48.430Z",
   "problems": [
     {
       "frontendId": "70",
@@ -83,6 +83,26 @@
           "path": "DSA_Leetcode/1137-n-th-tribonacci-number/1137-n-th-tribonacci-number.cpp",
           "sha": "75fffc6af53591873e1c9ee31ba86294d7191e66",
           "lastSyncedAt": "2026-08-21T17:44:07.364Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3875",
+      "title": "Construct Uniform Parity Array I",
+      "slug": "construct-uniform-parity-array-i",
+      "problemName": "3875-construct-uniform-parity-array-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
+      "folderPath": "DSA_Leetcode/3875-construct-uniform-parity-array-i/",
+      "readmePath": "DSA_Leetcode/3875-construct-uniform-parity-array-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3875-construct-uniform-parity-array-i.cpp",
+          "path": "DSA_Leetcode/3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.cpp",
+          "sha": "981b49931d7ba916f273bdb7bd85451cd045794e",
+          "lastSyncedAt": "2026-09-07T17:32:48.430Z"
         }
       ]
     },
