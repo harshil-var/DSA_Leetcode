@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-07T17:32:48.430Z",
+  "updatedAt": "2026-09-07T17:36:22.664Z",
   "problems": [
     {
       "frontendId": "35",
@@ -83,6 +83,26 @@
           "path": "DSA_Leetcode/0106-construct-binary-tree-from-inorder-and-postorder-traversal/0106-construct-binary-tree-from-inorder-and-postorder-traversal.cpp",
           "sha": "7fe1ccd7afaf8a6e7ef220f1251dc895612400fc",
           "lastSyncedAt": "2026-08-21T12:25:26.412Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "167",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "slug": "two-sum-ii-input-array-is-sorted",
+      "problemName": "0167-two-sum-ii-input-array-is-sorted",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+      "folderPath": "DSA_Leetcode/0167-two-sum-ii-input-array-is-sorted/",
+      "readmePath": "DSA_Leetcode/0167-two-sum-ii-input-array-is-sorted/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0167-two-sum-ii-input-array-is-sorted.cpp",
+          "path": "DSA_Leetcode/0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.cpp",
+          "sha": "45fb1a7da68095084ff1db58f5b81480c7e3b632",
+          "lastSyncedAt": "2026-09-07T17:36:22.664Z"
         }
       ]
     },
