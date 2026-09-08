@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-07T17:32:48.430Z",
+  "updatedAt": "2026-09-08T17:46:12.269Z",
   "problems": [
     {
       "frontendId": "70",
@@ -83,6 +83,26 @@
           "path": "DSA_Leetcode/1137-n-th-tribonacci-number/1137-n-th-tribonacci-number.cpp",
           "sha": "75fffc6af53591873e1c9ee31ba86294d7191e66",
           "lastSyncedAt": "2026-08-21T17:44:07.364Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3870",
+      "title": "Count Commas in Range",
+      "slug": "count-commas-in-range",
+      "problemName": "3870-count-commas-in-range",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-commas-in-range/",
+      "folderPath": "DSA_Leetcode/3870-count-commas-in-range/",
+      "readmePath": "DSA_Leetcode/3870-count-commas-in-range/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3870-count-commas-in-range.cpp",
+          "path": "DSA_Leetcode/3870-count-commas-in-range/3870-count-commas-in-range.cpp",
+          "sha": "3784a076035eb5168f26be96fa16785e854a6fa2",
+          "lastSyncedAt": "2026-09-08T17:46:12.269Z"
         }
       ]
     },
