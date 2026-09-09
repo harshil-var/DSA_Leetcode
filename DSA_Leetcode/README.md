@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 31 | 13 | 17 | 1 |
+| 32 | 13 | 18 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 3 days | 14 |
+| 3 days | 3 days | 15 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-25 | 2 |
 | 2026-07-27 | 4 |
 | 2026-07-30 | 4 |
 | 2026-08-02 | 2 |
@@ -29,18 +28,19 @@ Contains topicwise list of solved problems.
 | 2026-09-04 | 3 |
 | 2026-09-07 | 4 |
 | 2026-09-08 | 1 |
+| 2026-09-09 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 19 | 61% |
-| Binary Tree | 10 | 32% |
-| Tree | 10 | 32% |
-| Depth-First Search | 8 | 26% |
-| Breadth-First Search | 7 | 23% |
-| Math | 7 | 23% |
-| Matrix | 7 | 23% |
+| Array | 19 | 59% |
+| Binary Tree | 10 | 31% |
+| Tree | 10 | 31% |
+| Depth-First Search | 8 | 25% |
+| Math | 8 | 25% |
+| Breadth-First Search | 7 | 22% |
+| Matrix | 7 | 22% |
 | Hash Table | 6 | 19% |
 | Dynamic Programming | 5 | 16% |
 | Binary Search | 4 | 13% |
@@ -66,7 +66,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 6 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
-| [Math](Topics/math/) | 7 |
+| [Math](Topics/math/) | 8 |
 | [Matrix](Topics/matrix/) | 7 |
 | [Memoization](Topics/memoization/) | 3 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
