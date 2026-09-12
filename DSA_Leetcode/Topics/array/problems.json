@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-12T14:13:46.929Z",
+  "updatedAt": "2026-09-12T14:14:39.976Z",
   "problems": [
     {
       "frontendId": "35",
@@ -103,6 +103,26 @@
           "path": "DSA_Leetcode/0139-word-break/0139-word-break.cpp",
           "sha": "30e3bac75a4be364201820e9f8db844353f9bc41",
           "lastSyncedAt": "2026-09-12T14:13:46.929Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "140",
+      "title": "Word Break II",
+      "slug": "word-break-ii",
+      "problemName": "0140-word-break-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break-ii/",
+      "folderPath": "DSA_Leetcode/0140-word-break-ii/",
+      "readmePath": "DSA_Leetcode/0140-word-break-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0140-word-break-ii.cpp",
+          "path": "DSA_Leetcode/0140-word-break-ii/0140-word-break-ii.cpp",
+          "sha": "462c6c21345bbb2236bf6fce190f9455a6d251fe",
+          "lastSyncedAt": "2026-09-12T14:14:39.976Z"
         }
       ]
     },
