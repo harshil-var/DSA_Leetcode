@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-11T18:44:22.415Z",
+  "updatedAt": "2026-09-12T14:13:46.929Z",
   "problems": [
     {
       "frontendId": "35",
@@ -83,6 +83,26 @@
           "path": "DSA_Leetcode/0106-construct-binary-tree-from-inorder-and-postorder-traversal/0106-construct-binary-tree-from-inorder-and-postorder-traversal.cpp",
           "sha": "7fe1ccd7afaf8a6e7ef220f1251dc895612400fc",
           "lastSyncedAt": "2026-08-21T12:25:26.412Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "139",
+      "title": "Word Break",
+      "slug": "word-break",
+      "problemName": "0139-word-break",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break/",
+      "folderPath": "DSA_Leetcode/0139-word-break/",
+      "readmePath": "DSA_Leetcode/0139-word-break/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0139-word-break.cpp",
+          "path": "DSA_Leetcode/0139-word-break/0139-word-break.cpp",
+          "sha": "30e3bac75a4be364201820e9f8db844353f9bc41",
+          "lastSyncedAt": "2026-09-12T14:13:46.929Z"
         }
       ]
     },
