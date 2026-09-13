@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-12T14:14:39.976Z",
+  "updatedAt": "2026-09-13T15:36:49.669Z",
   "problems": [
     {
       "frontendId": "36",
@@ -123,6 +123,26 @@
           "path": "DSA_Leetcode/0229-majority-element-ii/0229-majority-element-ii.cpp",
           "sha": "9d1cfe037c6ea8d634ab9bbde6822e131261bab5",
           "lastSyncedAt": "2026-08-21T12:24:14.215Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "508",
+      "title": "Most Frequent Subtree Sum",
+      "slug": "most-frequent-subtree-sum",
+      "problemName": "0508-most-frequent-subtree-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/most-frequent-subtree-sum/",
+      "folderPath": "DSA_Leetcode/0508-most-frequent-subtree-sum/",
+      "readmePath": "DSA_Leetcode/0508-most-frequent-subtree-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0508-most-frequent-subtree-sum.cpp",
+          "path": "DSA_Leetcode/0508-most-frequent-subtree-sum/0508-most-frequent-subtree-sum.cpp",
+          "sha": "2a0a53ee2c3c13accbc037c8585e9f57a3c0e04d",
+          "lastSyncedAt": "2026-09-13T15:36:49.669Z"
         }
       ]
     },
