@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-12T14:14:39.976Z",
+  "updatedAt": "2026-09-13T15:39:12.031Z",
   "problems": [
     {
       "frontendId": "35",
@@ -303,6 +303,26 @@
           "path": "DSA_Leetcode/0713-subarray-product-less-than-k/0713-subarray-product-less-than-k.cpp",
           "sha": "3af96edb5bb7d0f3e8a1cd55bdd8769e8cd6dda6",
           "lastSyncedAt": "2026-09-01T21:47:06.983Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "807",
+      "title": "Max Increase to Keep City Skyline",
+      "slug": "max-increase-to-keep-city-skyline",
+      "problemName": "0807-max-increase-to-keep-city-skyline",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-increase-to-keep-city-skyline/",
+      "folderPath": "DSA_Leetcode/0807-max-increase-to-keep-city-skyline/",
+      "readmePath": "DSA_Leetcode/0807-max-increase-to-keep-city-skyline/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0807-max-increase-to-keep-city-skyline.cpp",
+          "path": "DSA_Leetcode/0807-max-increase-to-keep-city-skyline/0807-max-increase-to-keep-city-skyline.cpp",
+          "sha": "5d0eb82f18aaa015fdb730c48c0a42f23f2728b9",
+          "lastSyncedAt": "2026-09-13T15:39:12.031Z"
         }
       ]
     },
