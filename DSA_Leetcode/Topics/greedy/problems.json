@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "greedy",
+    "name": "Greedy"
+  },
+  "updatedAt": "2026-09-13T15:39:12.031Z",
+  "problems": [
+    {
+      "frontendId": "807",
+      "title": "Max Increase to Keep City Skyline",
+      "slug": "max-increase-to-keep-city-skyline",
+      "problemName": "0807-max-increase-to-keep-city-skyline",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-increase-to-keep-city-skyline/",
+      "folderPath": "DSA_Leetcode/0807-max-increase-to-keep-city-skyline/",
+      "readmePath": "DSA_Leetcode/0807-max-increase-to-keep-city-skyline/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0807-max-increase-to-keep-city-skyline.cpp",
+          "path": "DSA_Leetcode/0807-max-increase-to-keep-city-skyline/0807-max-increase-to-keep-city-skyline.cpp",
+          "sha": "5d0eb82f18aaa015fdb730c48c0a42f23f2728b9",
+          "lastSyncedAt": "2026-09-13T15:39:12.031Z"
+        }
+      ]
+    }
+  ]
+}
