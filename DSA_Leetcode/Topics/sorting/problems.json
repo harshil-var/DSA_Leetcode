@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-07T17:38:07.718Z",
+  "updatedAt": "2026-09-19T19:14:16.337Z",
   "problems": [
     {
       "frontendId": "229",
@@ -63,6 +63,26 @@
           "path": "DSA_Leetcode/0628-maximum-product-of-three-numbers/0628-maximum-product-of-three-numbers.cpp",
           "sha": "67a0c7e91d879c40b3f8dab573727645ae02361e",
           "lastSyncedAt": "2026-08-21T12:24:44.144Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2410",
+      "title": "Maximum Matching of Players With Trainers",
+      "slug": "maximum-matching-of-players-with-trainers",
+      "problemName": "2410-maximum-matching-of-players-with-trainers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-matching-of-players-with-trainers/",
+      "folderPath": "DSA_Leetcode/2410-maximum-matching-of-players-with-trainers/",
+      "readmePath": "DSA_Leetcode/2410-maximum-matching-of-players-with-trainers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2410-maximum-matching-of-players-with-trainers.cpp",
+          "path": "DSA_Leetcode/2410-maximum-matching-of-players-with-trainers/2410-maximum-matching-of-players-with-trainers.cpp",
+          "sha": "9ebc1f455a32eccba57afe5df1b0c144cce6f256",
+          "lastSyncedAt": "2026-09-19T19:14:16.337Z"
         }
       ]
     }
