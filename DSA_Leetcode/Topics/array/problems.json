@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-13T15:39:12.031Z",
+  "updatedAt": "2026-09-19T19:14:16.337Z",
   "problems": [
     {
       "frontendId": "35",
@@ -383,6 +383,26 @@
           "path": "DSA_Leetcode/2133-check-if-every-row-and-column-contains-all-numbers/2133-check-if-every-row-and-column-contains-all-numbers.cpp",
           "sha": "e77cc49b115c1338289347279adae54206aea233",
           "lastSyncedAt": "2026-08-24T15:26:43.850Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2410",
+      "title": "Maximum Matching of Players With Trainers",
+      "slug": "maximum-matching-of-players-with-trainers",
+      "problemName": "2410-maximum-matching-of-players-with-trainers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-matching-of-players-with-trainers/",
+      "folderPath": "DSA_Leetcode/2410-maximum-matching-of-players-with-trainers/",
+      "readmePath": "DSA_Leetcode/2410-maximum-matching-of-players-with-trainers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2410-maximum-matching-of-players-with-trainers.cpp",
+          "path": "DSA_Leetcode/2410-maximum-matching-of-players-with-trainers/2410-maximum-matching-of-players-with-trainers.cpp",
+          "sha": "9ebc1f455a32eccba57afe5df1b0c144cce6f256",
+          "lastSyncedAt": "2026-09-19T19:14:16.337Z"
         }
       ]
     },
