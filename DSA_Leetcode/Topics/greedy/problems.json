@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-13T15:39:12.031Z",
+  "updatedAt": "2026-09-19T19:14:16.337Z",
   "problems": [
     {
       "frontendId": "807",
@@ -23,6 +23,26 @@
           "path": "DSA_Leetcode/0807-max-increase-to-keep-city-skyline/0807-max-increase-to-keep-city-skyline.cpp",
           "sha": "5d0eb82f18aaa015fdb730c48c0a42f23f2728b9",
           "lastSyncedAt": "2026-09-13T15:39:12.031Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2410",
+      "title": "Maximum Matching of Players With Trainers",
+      "slug": "maximum-matching-of-players-with-trainers",
+      "problemName": "2410-maximum-matching-of-players-with-trainers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-matching-of-players-with-trainers/",
+      "folderPath": "DSA_Leetcode/2410-maximum-matching-of-players-with-trainers/",
+      "readmePath": "DSA_Leetcode/2410-maximum-matching-of-players-with-trainers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2410-maximum-matching-of-players-with-trainers.cpp",
+          "path": "DSA_Leetcode/2410-maximum-matching-of-players-with-trainers/2410-maximum-matching-of-players-with-trainers.cpp",
+          "sha": "9ebc1f455a32eccba57afe5df1b0c144cce6f256",
+          "lastSyncedAt": "2026-09-19T19:14:16.337Z"
         }
       ]
     }
