@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-13T15:36:49.669Z",
+  "updatedAt": "2026-09-29T19:55:28.995Z",
   "problems": [
     {
       "frontendId": "36",
@@ -123,6 +123,26 @@
           "path": "DSA_Leetcode/0229-majority-element-ii/0229-majority-element-ii.cpp",
           "sha": "9d1cfe037c6ea8d634ab9bbde6822e131261bab5",
           "lastSyncedAt": "2026-08-21T12:24:14.215Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "438",
+      "title": "Find All Anagrams in a String",
+      "slug": "find-all-anagrams-in-a-string",
+      "problemName": "0438-find-all-anagrams-in-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-anagrams-in-a-string/",
+      "folderPath": "DSA_Leetcode/0438-find-all-anagrams-in-a-string/",
+      "readmePath": "DSA_Leetcode/0438-find-all-anagrams-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0438-find-all-anagrams-in-a-string.cpp",
+          "path": "DSA_Leetcode/0438-find-all-anagrams-in-a-string/0438-find-all-anagrams-in-a-string.cpp",
+          "sha": "4a8b9a4b17397dadb2ce45a4ef21407b2b98b73f",
+          "lastSyncedAt": "2026-09-29T19:55:28.995Z"
         }
       ]
     },
