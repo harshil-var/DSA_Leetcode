@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 36 | 14 | 20 | 2 |
+| 39 | 14 | 23 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 3 days | 17 |
+| 1 days | 3 days | 19 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-02 | 2 |
-| 2026-08-15 | 2 |
 | 2026-08-16 | 1 |
 | 2026-08-17 | 1 |
 | 2026-08-20 | 3 |
@@ -28,29 +26,31 @@ Contains topicwise list of solved problems.
 | 2026-09-08 | 1 |
 | 2026-09-09 | 1 |
 | 2026-09-12 | 3 |
-| 2026-09-13 | 1 |
+| 2026-09-13 | 2 |
+| 2026-09-20 | 1 |
+| 2026-09-30 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 22 | 61% |
-| Binary Tree | 11 | 31% |
-| Tree | 11 | 31% |
-| Hash Table | 10 | 28% |
-| Depth-First Search | 9 | 25% |
-| Math | 8 | 22% |
-| Breadth-First Search | 7 | 19% |
-| Dynamic Programming | 7 | 19% |
-| Matrix | 7 | 19% |
-| Memoization | 5 | 14% |
+| Array | 24 | 62% |
+| Binary Tree | 11 | 28% |
+| Hash Table | 11 | 28% |
+| Tree | 11 | 28% |
+| Depth-First Search | 9 | 23% |
+| Math | 8 | 21% |
+| Matrix | 8 | 21% |
+| Breadth-First Search | 7 | 18% |
+| Dynamic Programming | 7 | 18% |
+| Memoization | 5 | 13% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
-| [Array](Topics/array/) | 23 |
+| [Array](Topics/array/) | 25 |
 | [Backtracking](Topics/backtracking/) | 3 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
@@ -65,19 +65,20 @@ Contains topicwise list of solved problems.
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 7 |
 | [Enumeration](Topics/enumeration/) | 1 |
-| [Hash Table](Topics/hash-table/) | 10 |
+| [Greedy](Topics/greedy/) | 2 |
+| [Hash Table](Topics/hash-table/) | 11 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
 | [Math](Topics/math/) | 8 |
-| [Matrix](Topics/matrix/) | 7 |
+| [Matrix](Topics/matrix/) | 8 |
 | [Memoization](Topics/memoization/) | 5 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Recursion](Topics/recursion/) | 2 |
-| [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 3 |
-| [String](Topics/string/) | 2 |
+| [Sliding Window](Topics/sliding-window/) | 2 |
+| [Sorting](Topics/sorting/) | 4 |
+| [String](Topics/string/) | 3 |
 | [Tree](Topics/tree/) | 11 |
 | [Trie](Topics/trie/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 1 |
+| [Two Pointers](Topics/two-pointers/) | 2 |
 | [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->
