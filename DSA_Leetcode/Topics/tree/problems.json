@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-13T15:36:49.669Z",
+  "updatedAt": "2026-10-03T18:40:19.536Z",
   "problems": [
     {
       "frontendId": "98",
@@ -203,6 +203,26 @@
           "path": "DSA_Leetcode/0543-diameter-of-binary-tree/0543-diameter-of-binary-tree.cpp",
           "sha": "8ba05469ff7e0cbf0828a09e97dd33d3c7dd840c",
           "lastSyncedAt": "2026-08-21T12:26:16.591Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "863",
+      "title": "All Nodes Distance K in Binary Tree",
+      "slug": "all-nodes-distance-k-in-binary-tree",
+      "problemName": "0863-all-nodes-distance-k-in-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/",
+      "folderPath": "DSA_Leetcode/0863-all-nodes-distance-k-in-binary-tree/",
+      "readmePath": "DSA_Leetcode/0863-all-nodes-distance-k-in-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0863-all-nodes-distance-k-in-binary-tree.cpp",
+          "path": "DSA_Leetcode/0863-all-nodes-distance-k-in-binary-tree/0863-all-nodes-distance-k-in-binary-tree.cpp",
+          "sha": "acc939d1e92c9bd237231be2c5075d97617d2e05",
+          "lastSyncedAt": "2026-10-03T18:40:19.536Z"
         }
       ]
     },
