@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "heap-priority-queue",
-    "name": "Heap (Priority Queue)"
+    "name": "Heap (Priority Queue)",
+    "tagId": "61050"
   },
-  "updatedAt": "2026-09-07T17:38:07.718Z",
+  "updatedAt": "2026-10-13T13:42:03.797Z",
   "problems": [
     {
       "frontendId": "378",
@@ -43,6 +44,26 @@
           "path": "DSA_Leetcode/0407-trapping-rain-water-ii/0407-trapping-rain-water-ii.cpp",
           "sha": "e606e29ecde96811fb3b79d8c38344823da5ca47",
           "lastSyncedAt": "2026-08-21T12:24:35.418Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2333",
+      "title": "Minimum Sum of Squared Difference",
+      "slug": "minimum-sum-of-squared-difference",
+      "problemName": "2333-minimum-sum-of-squared-difference",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-sum-of-squared-difference/",
+      "folderPath": "DSA_Leetcode/2333-minimum-sum-of-squared-difference/",
+      "readmePath": "DSA_Leetcode/2333-minimum-sum-of-squared-difference/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2333-minimum-sum-of-squared-difference.cpp",
+          "path": "DSA_Leetcode/2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.cpp",
+          "sha": "c74d1100b2fbb8a2796f1bf528bd8dc2f586f285",
+          "lastSyncedAt": "2026-10-13T13:42:03.797Z"
         }
       ]
     }
