@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "greedy",
-    "name": "Greedy"
+    "name": "Greedy",
+    "tagId": "17"
   },
-  "updatedAt": "2026-09-19T19:14:16.337Z",
+  "updatedAt": "2026-10-13T13:42:03.797Z",
   "problems": [
     {
       "frontendId": "807",
@@ -23,6 +24,26 @@
           "path": "DSA_Leetcode/0807-max-increase-to-keep-city-skyline/0807-max-increase-to-keep-city-skyline.cpp",
           "sha": "5d0eb82f18aaa015fdb730c48c0a42f23f2728b9",
           "lastSyncedAt": "2026-09-13T15:39:12.031Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2333",
+      "title": "Minimum Sum of Squared Difference",
+      "slug": "minimum-sum-of-squared-difference",
+      "problemName": "2333-minimum-sum-of-squared-difference",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-sum-of-squared-difference/",
+      "folderPath": "DSA_Leetcode/2333-minimum-sum-of-squared-difference/",
+      "readmePath": "DSA_Leetcode/2333-minimum-sum-of-squared-difference/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2333-minimum-sum-of-squared-difference.cpp",
+          "path": "DSA_Leetcode/2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.cpp",
+          "sha": "c74d1100b2fbb8a2796f1bf528bd8dc2f586f285",
+          "lastSyncedAt": "2026-10-13T13:42:03.797Z"
         }
       ]
     },
