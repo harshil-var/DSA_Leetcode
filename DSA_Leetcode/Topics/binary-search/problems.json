@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "binary-search",
-    "name": "Binary Search"
+    "name": "Binary Search",
+    "tagId": "11"
   },
-  "updatedAt": "2026-09-07T17:38:07.718Z",
+  "updatedAt": "2026-10-13T13:42:03.797Z",
   "problems": [
     {
       "frontendId": "35",
@@ -83,6 +84,26 @@
           "path": "DSA_Leetcode/0713-subarray-product-less-than-k/0713-subarray-product-less-than-k.cpp",
           "sha": "3af96edb5bb7d0f3e8a1cd55bdd8769e8cd6dda6",
           "lastSyncedAt": "2026-09-01T21:47:06.983Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2333",
+      "title": "Minimum Sum of Squared Difference",
+      "slug": "minimum-sum-of-squared-difference",
+      "problemName": "2333-minimum-sum-of-squared-difference",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-sum-of-squared-difference/",
+      "folderPath": "DSA_Leetcode/2333-minimum-sum-of-squared-difference/",
+      "readmePath": "DSA_Leetcode/2333-minimum-sum-of-squared-difference/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2333-minimum-sum-of-squared-difference.cpp",
+          "path": "DSA_Leetcode/2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.cpp",
+          "sha": "c74d1100b2fbb8a2796f1bf528bd8dc2f586f285",
+          "lastSyncedAt": "2026-10-13T13:42:03.797Z"
         }
       ]
     }
