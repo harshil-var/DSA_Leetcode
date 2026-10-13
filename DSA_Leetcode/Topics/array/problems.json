@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "array",
-    "name": "Array"
+    "name": "Array",
+    "tagId": "5"
   },
-  "updatedAt": "2026-09-19T19:14:16.337Z",
+  "updatedAt": "2026-10-13T13:42:03.797Z",
   "problems": [
     {
       "frontendId": "35",
@@ -383,6 +384,26 @@
           "path": "DSA_Leetcode/2133-check-if-every-row-and-column-contains-all-numbers/2133-check-if-every-row-and-column-contains-all-numbers.cpp",
           "sha": "e77cc49b115c1338289347279adae54206aea233",
           "lastSyncedAt": "2026-08-24T15:26:43.850Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2333",
+      "title": "Minimum Sum of Squared Difference",
+      "slug": "minimum-sum-of-squared-difference",
+      "problemName": "2333-minimum-sum-of-squared-difference",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-sum-of-squared-difference/",
+      "folderPath": "DSA_Leetcode/2333-minimum-sum-of-squared-difference/",
+      "readmePath": "DSA_Leetcode/2333-minimum-sum-of-squared-difference/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2333-minimum-sum-of-squared-difference.cpp",
+          "path": "DSA_Leetcode/2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.cpp",
+          "sha": "c74d1100b2fbb8a2796f1bf528bd8dc2f586f285",
+          "lastSyncedAt": "2026-10-13T13:42:03.797Z"
         }
       ]
     },
