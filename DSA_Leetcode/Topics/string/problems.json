@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "string",
-    "name": "String"
+    "name": "String",
+    "tagId": "10"
   },
-  "updatedAt": "2026-09-29T19:55:28.995Z",
+  "updatedAt": "2026-11-01T15:01:16.917Z",
   "problems": [
     {
       "frontendId": "139",
@@ -63,6 +64,26 @@
           "path": "DSA_Leetcode/0438-find-all-anagrams-in-a-string/0438-find-all-anagrams-in-a-string.cpp",
           "sha": "4a8b9a4b17397dadb2ce45a4ef21407b2b98b73f",
           "lastSyncedAt": "2026-09-29T19:55:28.995Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3970",
+      "title": "Shortest Path With At Most K Consecutive Identical Characters",
+      "slug": "shortest-path-with-at-most-k-consecutive-identical-characters",
+      "problemName": "3970-shortest-path-with-at-most-k-consecutive-identical-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/",
+      "folderPath": "DSA_Leetcode/3970-shortest-path-with-at-most-k-consecutive-identical-characters/",
+      "readmePath": "DSA_Leetcode/3970-shortest-path-with-at-most-k-consecutive-identical-characters/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3970-shortest-path-with-at-most-k-consecutive-identical-characters.cpp",
+          "path": "DSA_Leetcode/3970-shortest-path-with-at-most-k-consecutive-identical-characters/3970-shortest-path-with-at-most-k-consecutive-identical-characters.cpp",
+          "sha": "48ff4731b364dc6373454467dd4e5b9c110787ae",
+          "lastSyncedAt": "2026-11-01T15:01:16.917Z"
         }
       ]
     }
