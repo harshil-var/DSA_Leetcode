@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "matrix",
-    "name": "Matrix"
+    "name": "Matrix",
+    "tagId": "61053"
   },
-  "updatedAt": "2026-09-13T15:39:12.031Z",
+  "updatedAt": "2026-11-01T15:05:10.385Z",
   "problems": [
     {
       "frontendId": "36",
@@ -163,6 +164,26 @@
           "path": "DSA_Leetcode/3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.cpp",
           "sha": "0d9d8027e21569e21fbcec461a5a388909ef0530",
           "lastSyncedAt": "2026-09-06T20:24:57.300Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3619",
+      "title": "Count Islands With Total Value Divisible by K",
+      "slug": "count-islands-with-total-value-divisible-by-k",
+      "problemName": "3619-count-islands-with-total-value-divisible-by-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/",
+      "folderPath": "DSA_Leetcode/3619-count-islands-with-total-value-divisible-by-k/",
+      "readmePath": "DSA_Leetcode/3619-count-islands-with-total-value-divisible-by-k/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3619-count-islands-with-total-value-divisible-by-k.cpp",
+          "path": "DSA_Leetcode/3619-count-islands-with-total-value-divisible-by-k/3619-count-islands-with-total-value-divisible-by-k.cpp",
+          "sha": "e72cf4133368a145bfd18be092279d4a91778677",
+          "lastSyncedAt": "2026-11-01T15:05:10.385Z"
         }
       ]
     }
