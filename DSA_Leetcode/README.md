@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 43 | 14 | 27 | 2 |
+| 44 | 15 | 27 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 3 days | 22 |
+| 1 days | 3 days | 23 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-21 | 1 |
 | 2026-08-24 | 2 |
 | 2026-09-02 | 1 |
 | 2026-09-04 | 3 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-10-04 | 1 |
 | 2026-10-13 | 1 |
 | 2026-11-01 | 2 |
+| 2026-11-23 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 26 | 60% |
-| Binary Tree | 12 | 28% |
-| Hash Table | 12 | 28% |
-| Tree | 12 | 28% |
-| Depth-First Search | 11 | 26% |
-| Breadth-First Search | 9 | 21% |
-| Matrix | 9 | 21% |
-| Math | 8 | 19% |
+| Array | 26 | 59% |
+| Binary Tree | 12 | 27% |
+| Hash Table | 12 | 27% |
+| Tree | 12 | 27% |
+| Depth-First Search | 11 | 25% |
+| Breadth-First Search | 9 | 20% |
+| Matrix | 9 | 20% |
+| Math | 8 | 18% |
 | Dynamic Programming | 7 | 16% |
-| Binary Search | 5 | 12% |
+| Binary Search | 5 | 11% |
 
 ## Topics
 
@@ -78,7 +78,7 @@ Contains topicwise list of solved problems.
 | [Shortest Path](Topics/shortest-path/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 5 |
-| [String](Topics/string/) | 4 |
+| [String](Topics/string/) | 5 |
 | [Tree](Topics/tree/) | 12 |
 | [Trie](Topics/trie/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 2 |
