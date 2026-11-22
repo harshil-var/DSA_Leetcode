@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-01T15:01:16.917Z",
+  "updatedAt": "2026-11-22T22:23:34.060Z",
   "problems": [
     {
       "frontendId": "139",
@@ -64,6 +64,26 @@
           "path": "DSA_Leetcode/0438-find-all-anagrams-in-a-string/0438-find-all-anagrams-in-a-string.cpp",
           "sha": "4a8b9a4b17397dadb2ce45a4ef21407b2b98b73f",
           "lastSyncedAt": "2026-09-29T19:55:28.995Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2124",
+      "title": "Check if All A's Appears Before All B's",
+      "slug": "check-if-all-as-appears-before-all-bs",
+      "problemName": "2124-check-if-all-as-appears-before-all-bs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/",
+      "folderPath": "DSA_Leetcode/2124-check-if-all-as-appears-before-all-bs/",
+      "readmePath": "DSA_Leetcode/2124-check-if-all-as-appears-before-all-bs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2124-check-if-all-as-appears-before-all-bs.cpp",
+          "path": "DSA_Leetcode/2124-check-if-all-as-appears-before-all-bs/2124-check-if-all-as-appears-before-all-bs.cpp",
+          "sha": "9f87be025e3fbfb6b771854e6047f60de2561c37",
+          "lastSyncedAt": "2026-11-22T22:23:34.060Z"
         }
       ]
     },
